@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there 👋  
 
+My name is Andrew Medina, I am a dad of six and I enjoy spending time with my beautiful family. Some of our hobbies are playing basketball, football, chess, and swimming. I am currently working in warehousing but hope to change that soon and become a developer.
 <!--
 **Techdrew87/Techdrew87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
